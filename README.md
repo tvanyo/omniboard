@@ -2,6 +2,12 @@
 
 Omniboard is a static kanban webpage generator for OmniFocus. Use it to view your currently active projects as a kanban board, with custom sorting and grouping options.
 
+This fork simply removes the Kanji from the header information for personal use.
+
+Original documentiation follows:
+
+---
+
 # You will need
 
 * Ruby 2.0 or later: type `ruby -v` at the terminal to see if you have it.
